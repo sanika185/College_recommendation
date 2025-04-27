@@ -1,0 +1,49 @@
+{
+    "colleges": [
+        {
+            "name": "Walchand College of Engineering",
+            "branches": {
+                "CS": 96,
+                "IT": 95,
+                "Electronics": 92,
+                "Mechanical": 90
+            }
+        },
+        {
+            "name": "DKTE Society's Textile & Engineering Institute",
+            "branches": {
+                "CS": 94,
+                "IT": 93,
+                "Electronics": 90,
+                "Mechanical": 88
+            }
+        },
+        {
+            "name": "RajaramBapu Institute of Technology (RIT)",
+            "branches": {
+                "CS": 93,
+                "IT": 92,
+                "Electronics": 89,
+                "Mechanical": 87
+            }
+        },
+        {
+            "name": "KIT's College of Engineering",
+            "branches": {
+                "CS": 91,
+                "IT": 90,
+                "Electronics": 88,
+                "Mechanical": 85
+            }
+        },
+        {
+            "name": "D Y Patil College of Engineering",
+            "branches": {
+                "CS": 89,
+                "IT": 88,
+                "Electronics": 85,
+                "Mechanical": 82
+            }
+        }
+    ]
+}
